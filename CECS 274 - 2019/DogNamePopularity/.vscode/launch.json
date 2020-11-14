@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DogNamePopularity",
+      "request": "launch",
+      "mainClass": "cecs174.DogNamePopularity"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DogNamePopularity",
+      "request": "launch",
+      "mainClass": "cecs174.DogNamePopularity",
+      "projectName": "DogNamePopularity_eba0f1fd"
+    }
+  ]
+}
